@@ -1,0 +1,14 @@
+Package: RcmdrPlugin.rmaeng2
+Type: Package
+Title: R Commander Plugin for (industrial) Design of Experiments
+Version: 0.1.0
+Date: 2019-04-11
+Author: IMERMAENG2
+Maintainer: <sf01363@naver.com>
+Description: The package provides a platform-independent GUI for design of experiments.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: Rcmdr
+Depends: rgl, TeachingDemos, tkrplot, rsm, FrF2
+RoxygenNote: 6.1.1

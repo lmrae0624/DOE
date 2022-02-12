@@ -1,0 +1,8 @@
+860777968cad4f765ee29426b131653a *DESCRIPTION
+aba88a20fc6ac38dd23fe7d1683e37a0 *inst/etc/menus.txt
+25a7a1dbec3cc6a880cd18bf6731c230 *LICENSE
+d713a607352fb6e73e6a10e873660555 *man/RcmdrPlugin.rmaeng2-internal.Rd
+aafd735e27e828924d0cc23070abb5ba *man/RcmdrPlugin.rmaeng2-package.Rd
+ab363ec1c8a28150bb299ace23a01a4a *NAMESPACE
+00c896fc39a30473858fae50f356e7af *R/global.r
+b47db411ce733afe80944010de8b2e9a *R/RcmdrPlugin.rmaeng2.R

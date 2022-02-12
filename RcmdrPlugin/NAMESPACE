@@ -1,0 +1,7 @@
+exportPattern("^[^\\.]")
+
+import(stats, Rcmdr, TeachingDemos, rgl, tkrplot, FrF2, rsm)
+importFrom("tcltk", "tkbutton")
+importFrom("FrF2", "FrF2")
+importFrom("rsm", "rsm", "SO", "steepest", "coded.data")
+importFrom("graphics", "plot", "title", "contour")

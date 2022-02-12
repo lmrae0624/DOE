@@ -1,0 +1,23 @@
+Package: rmaeng2
+Type: Package
+Title: DOE for IME
+Version: 0.1.0
+Date: 2019-03-26
+Author: IMERMAENG2
+Maintainer: <sf01363@naver.com>
+Description: This package provides total function of DOE for IME
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+  stats, 
+  ggplot2,
+  gplots,
+  gridExtra,
+  dplyr,
+  DescTools,
+  rsm,
+  AlgDesign,
+  qualityTools,
+  DoE.base

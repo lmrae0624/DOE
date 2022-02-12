@@ -1,4 +1,32 @@
-<h3>R commander 초기 화면</h3>
+# DOE R Package
 
-![image](https://user-images.githubusercontent.com/90611796/153711952-6fe506b7-3468-4935-9a45-0103a3c2e86b.png)
+The goal of rmaeng2 is to provide students with free Design of Experiment program ....
+
+## Installation
+
+You can install the released version of rmaeng2 from [CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("rmaeng2")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+## basic example code
+```
+
+# DOE RcmdrPlugin
+
+The RcmdrPlugin.rmaeng2 is free experimenal desingn package
+
+## Installation
+
+You can install the released version of RcmdrPlugin.rmaeng2 from [CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("RcmdrPlugin.rmaeng2")
+```
 
